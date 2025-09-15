@@ -119,9 +119,9 @@ h1{
     }
     
     body,html{
-      background: #EEAECA;
+/*       background: #EEAECA; */
 background: linear-gradient(27deg, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
-        width: 100%;
+        width: 430px;
     
     }
     .card{
@@ -135,5 +135,6 @@ background: linear-gradient(27deg, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233
        }
 
 }
+
 
 
